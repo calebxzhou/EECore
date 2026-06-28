@@ -2,7 +2,7 @@
 
 **无尽纪元核心**
 
-A core API mod for Minecraft NeoForge 1.21.1 providing the Ω (Omega) energy system — a BigInteger-based, 12-tier voltage energy framework designed for GregTech-style tech mods.
+A core API mod for Minecraft NeoForge 1.21.1 providing the Ω (Omega) energy system — a BigInteger-based, 12-tier voltage energy framework for Minecraft mod developers.
 
 ## Overview / 概述
 
