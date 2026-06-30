@@ -121,5 +121,3 @@ MultiBlockRegistry.registerMod(
     pattern
 );
 ```
-
-JEI 会自动显示结构信息（需 JEI 兼容包，已移除可加回）。
